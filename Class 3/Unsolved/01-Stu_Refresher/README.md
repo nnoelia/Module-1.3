@@ -15,10 +15,13 @@ Complete the following steps.
 4. Modify the initialized `README.md` file by inserting a quick introduction about yourself:
 
     * Who are you? What is your background?
+    * Noelia, I am from Canada but my parents are from Argentina.
 
     * What are your career goals?
+    * I hope to get into Blockchain
 
     * Why did you choose FinTech as a career path?
+    * Always loved tech and finance, best of both worlds
 
 5. Update the `README.md` file in your online GitHub repository.
 
